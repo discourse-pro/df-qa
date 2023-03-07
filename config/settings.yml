@@ -3,3 +3,6 @@ posting:
   min_first_post_length:
     min: 0
     default: 0
+  min_post_length:
+    min: 0
+    default: 0
